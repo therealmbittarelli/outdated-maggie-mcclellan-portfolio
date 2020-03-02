@@ -4,8 +4,8 @@ import handle from './handle.js';
 
 const homeRender = function () {
 
-    $('main').html(
-        `<div class="ultimate-container">
+  $('main').html(
+    `<div class="ultimate-container">
   
         <section class="img-container">
             <img src="imgs/doodle-small.png" alt="doodle of Maggie and her cat on a couch" 
@@ -47,17 +47,17 @@ const homeRender = function () {
             </ul>
         </section>
     </div>`
-    );
-    handle.handleGoToAbout();
-    handle.handleGoToProject();
-    handle.handleGoToContact();
+  );
+  handle.handleGoToAbout();
+  handle.handleGoToProject();
+  handle.handleGoToContact();
 };
 
 
 const aboutRender = function () {
 
-    $('main').html(
-        `<div class="ultimate-container">
+  $('main').html(
+    `<div class="ultimate-container">
   
         <section class="img-container">
             <img src="imgs/doodle-small.png" alt="doodle of Maggie and her cat on a couch" 
@@ -120,17 +120,17 @@ const aboutRender = function () {
             </section>
         </section>
     </div>`
-    );
+  );
 
-    handle.handleGoToContact();
-    handle.handleGoToHome();
-    handle.handleGoToProject();
+  handle.handleGoToContact();
+  handle.handleGoToHome();
+  handle.handleGoToProject();
 };
 
 const projectsRender = function () {
 
-    $('main').html(
-        `<div class="ultimate-container">
+  $('main').html(
+    `<div class="ultimate-container">
   
         <section class="img-container">
             <img src="imgs/doodle-small.png" alt="doodle of Maggie and her cat on a couch" 
@@ -179,16 +179,15 @@ const projectsRender = function () {
             </section>
         </section>
     </div>`
-    );
-    handle.handleGoToAbout();
-    handle.handleGoToHome();
-    handle.handleGoToContact();
+  );
+  handle.handleGoToAbout();
+  handle.handleGoToHome();
+  handle.handleGoToContact();
 };
 
 const contactRender = function () {
-
-    $('main').html(
-        `<div class="ultimate-container">
+  $('main').html(
+    `<div class="ultimate-container">
               
         <section class="img-container">
             <img src="imgs/doodle-small.png" alt="doodle of Maggie and her cat on a couch" 
@@ -222,17 +221,17 @@ const contactRender = function () {
             </section>
         </section>
     </div>`
-    );
-    handle.handleGoToAbout();
-    handle.handleGoToHome();
-    handle.handleGoToProject();
+  );
+  handle.handleGoToAbout();
+  handle.handleGoToHome();
+  handle.handleGoToProject();
 };
 
 
 
 export default {
-    homeRender,
-    aboutRender,
-    projectsRender,
-    contactRender
+  homeRender,
+  aboutRender,
+  projectsRender,
+  contactRender
 };
