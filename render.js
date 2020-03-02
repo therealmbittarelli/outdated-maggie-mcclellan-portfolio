@@ -159,21 +159,21 @@ const projectsRender = function () {
                     <img src="imgs/createSetlist.png" class="project one" alt="screenshot of Street Beat dashboard"/>
                     <p class="project-title"><span id="title-bold">Street Beat</span> connects users to their bandmembers and band-related shared resources.</p>
                     <p class="project-tech">Technologies used: JavaScript, React, CSS, HTML, Express, Node, PostgreSQL, Mocha, Chai, Jest, Supertest</p>
-                    <p class="project-links">GitHub <a href="https://github.com/therealmbittarelli/Street-Beat-Client" target="_blank" aria-label="View Street Beat client GitHub repository">Client</a> and <a href="https://github.com/therealmbittarelli/Street-Beat-Server" target="_blank" aria-label="View Street Beat API GitHub repository">API</a> Repositories and <a href="https://street-beat.now.sh/" target="_blank" aria-label="View Street Beat live page">live app</a></p>
+                    <p class="project-links">GitHub <a href="https://github.com/therealmbittarelli/Street-Beat-Client" target="_blank" aria-label="View Street Beat client GitHub repository">client</a> and <a href="https://github.com/therealmbittarelli/Street-Beat-Server" target="_blank" aria-label="View Street Beat API GitHub repository">API</a> Repositories and <a href="https://street-beat.now.sh/" target="_blank" aria-label="View Street Beat live page">live app</a></p>
                 </div>
                 <hr>
                 <div class="project-box">
                     <img src="imgs/MiM_dash.png" class="project two"alt="screenshot of Maori in Motion dashboard"/>
                     <p class="project-title"><span id="title-bold">Maori in Motion</span> utilizes the spaced repetition technique to help users learn basic Maori words.</p>
                     <p class="project-tech">Technologies used: JavaScript, React, CSS, HTML, Express, Node, PostgreSQL, Mocha, Chai, Cypress</p>
-                    <p class="project-links">GitHub <a href="https://github.com/therealmbittarelli/Maori-in-Motion-client" target="_blank" aria-label="View Maori in Motion client GitHub repository">Client</a> and <a href="https://github.com/therealmbittarelli/Maori-in-Motion-server" target="_blank" aria-label="View Maori in Motion API GitHub repository">API</a> Repositories and <a href="https://maori-in-motion.now.sh" target="_blank" aria-label="View Maori in Motion live page">live app</a></p>
+                    <p class="project-links">GitHub <a href="https://github.com/therealmbittarelli/Maori-in-Motion-client" target="_blank" aria-label="View Maori in Motion client GitHub repository">client</a> and <a href="https://github.com/therealmbittarelli/Maori-in-Motion-server" target="_blank" aria-label="View Maori in Motion API GitHub repository">API</a> Repositories and <a href="https://maori-in-motion.now.sh" target="_blank" aria-label="View Maori in Motion live page">live app</a></p>
                 </div>
                 <hr>
                 <div class="project-box">
                 <img src="imgs/KH_Pantry.png" class="project one" alt="screenshot of Kitchen Helper pantry organizer"/>
                     <p class="project-title"><span id="title-bold">Kitchen Helper</span> helps users keep track of ingredient inventory, organize favorite recipes, and create meal plans.</p>
                     <p class="project-tech">Technologies used: JavaScript, React, CSS, HTML, Express, Node, PostgreSQL, Mocha, Chai, Jest, Supertest</p>
-                    <p class="project-links">GitHub <a href="https://github.com/thinkful-ei-iguana/Delta-Squad-Front-End" target="_blank" aria-label="View Kitchen Helper client GitHub repository">Client</a> and <a href="https://github.com/thinkful-ei-iguana/Delta-Squad-Server" target="_blank" aria-label="View Kitchen Helper API GitHub repository">API</a> Repositories and <a href="https://delta-squad-app.now.sh/" target="_blank" aria-label="View Kitchen Helper live page">live app</a></p>
+                    <p class="project-links">GitHub <a href="https://github.com/thinkful-ei-iguana/Delta-Squad-Front-End" target="_blank" aria-label="View Kitchen Helper client GitHub repository">client</a> and <a href="https://github.com/thinkful-ei-iguana/Delta-Squad-Server" target="_blank" aria-label="View Kitchen Helper API GitHub repository">API</a> Repositories and <a href="https://delta-squad-app.now.sh/" target="_blank" aria-label="View Kitchen Helper live page">live app</a></p>
                 </div>
                 
             </section>
